@@ -49,26 +49,9 @@ img {
     list-style: none;
 }
 
-#return-link {
+#links {
     display: block;
     text-align: center;
     padding-top: 20px;
-}
-
-#next-link {
-    display: block;
-    text-align: right;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-right: 20px;
-    padding-bottom: 25px;
-}
-
-#previous-link {
-    display: block;
-    text-align:left;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
     padding-bottom: 25px;
 }
