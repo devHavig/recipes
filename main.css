@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    background-color: grey;
+}
+
+#logo {
+    text-align: center;
+    font-size: 3rem;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#dessert-recipes {
+    text-align: center;
+    font-size: 3rem;
+}
+
+.recipe-list {
+    text-align: center;
+    list-style: none;
+}
